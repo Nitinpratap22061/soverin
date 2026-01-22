@@ -2,7 +2,7 @@ streamlit
 python-dotenv
 python-docx
 pymongo
-pinecone-client
+pinecone>=3.0.0
 openai
 langchain
 tiktoken
