@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+python-docx
+pymongo
+pinecone-client
+openai
+langchain
+tiktoken
