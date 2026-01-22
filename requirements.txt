@@ -1,10 +1,8 @@
 streamlit
-python-dotenv
-python-docx
-pymongo
-pinecone>=3.0.0
 openai
+pinecone>=3.0.0
+pymongo
+python-dotenv
 tiktoken
-langchain>=0.1.0
-langchain-community>=0.0.20
-
+langchain==0.1.16
+langchain-community==0.0.36
